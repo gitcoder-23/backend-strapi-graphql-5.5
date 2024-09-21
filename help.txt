@@ -24,3 +24,6 @@
           http://localhost:1337/graphql
 
           https://docs.strapi.io/dev-docs/api/graphql
+
+          // you tut
+          https://youtu.be/fidoDUmKiAU?si=poiCzrqJX8iv_ZdN
