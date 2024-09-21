@@ -1,0 +1,26 @@
+          npm run develop
+          
+          Start Strapi without watch mode.
+          npm run start
+          
+          Build Strapi admin panel.
+          npm run build
+          
+          Deploy Strapi project.
+          npm run deploy
+          
+          Seed your database with sample data.
+          npm run seed:example
+          
+          Display all available commands.
+          npm run strapi
+
+          To get started run
+          
+          cd /Users/cnmini/Desktop/CN/Training/Next-Strapi/backend-strapi-2024
+          npm run develop
+
+
+          http://localhost:1337/graphql
+
+          https://docs.strapi.io/dev-docs/api/graphql

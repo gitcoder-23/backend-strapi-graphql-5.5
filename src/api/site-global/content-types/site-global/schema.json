@@ -1,0 +1,38 @@
+{
+  "kind": "singleType",
+  "collectionName": "site_globals",
+  "info": {
+    "singularName": "site-global",
+    "pluralName": "site-globals",
+    "displayName": "SiteGlobal",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "site_name": {
+      "type": "string"
+    },
+    "fav_icon": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "site_details": {
+      "type": "text"
+    },
+    "defaultSeo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "shared-new.site-seo"
+    }
+  }
+}
